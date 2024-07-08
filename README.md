@@ -9,11 +9,12 @@ No 3rd party libraries were used.
 Compiled apk can be downloaded from the releases tab.
 Appetize.io link available to run the app as well.
 
-Appetize.io link: https://appetize.io/app/b_5p33ryz5n2ybrc6g563g2a2asu
+Appetize.io link: [Appetize link](https://appetize.io/app/b_ivuj7rczypqly67g4ch5mu7vfe)
 
 
 
 ## Screenshots
-![Screenshot_20240706_155701](https://github.com/AdrianIkeaba/ShopEasy/assets/46406218/14c8bdc8-5c75-43dc-8969-4ed65b5384de)
-![Screenshot_20240706_155746](https://github.com/AdrianIkeaba/ShopEasy/assets/46406218/a14e313e-5d43-4023-8577-9c1a13f1f723)
-![Screenshot_20240706_155752](https://github.com/AdrianIkeaba/ShopEasy/assets/46406218/5ba0bcdb-d387-4d0e-ac0a-0b86771f6cb1)
+![Screenshot_20240708_220859](https://github.com/AdrianIkeaba/ShopEasy/assets/46406218/b0655dd2-41db-4f37-8b49-5e20e1cce9ba)
+
+
+![Screenshot_20240708_220919](https://github.com/AdrianIkeaba/ShopEasy/assets/46406218/e7799f8f-112b-45c6-8a58-879dd66cbd4a)
